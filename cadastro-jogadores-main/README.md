@@ -1,0 +1,1 @@
+A tela inicial pode ser acessada em `http://localhost:8080/cadastro-jogador`.

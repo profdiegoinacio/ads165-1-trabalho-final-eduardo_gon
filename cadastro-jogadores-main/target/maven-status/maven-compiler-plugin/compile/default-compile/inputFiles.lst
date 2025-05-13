@@ -1,0 +1,17 @@
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\CadastroJogadoresApplication.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\exception\GrupoCodinomeIndisponivelException.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\model\GrupoCodinome.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\model\Jogador.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\repository\CodinomeRepository.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\repository\JogadorRepository.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\repository\LigaDaJusticaRepository.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\repository\VingadoresRepository.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\service\CodinomeRepositoryFactory.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\service\CodinomeService.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\service\JogadorService.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\web\CadastroJogadorController.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\web\CodinomeDTO.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\web\JogadorRestController.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\web\LigaDaJusticaDTO.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\web\ListagemJogadoresController.java
+C:\Users\Dev_060601\Documents\spring\desafio-cadastro-jogadores-main\src\main\java\br\com\eduardogon\cadastro_jogadores\web\VingadoresDTO.java
